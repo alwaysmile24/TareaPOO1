@@ -7,7 +7,7 @@ public class Perro{
 
 	public Perro(String raza){
 
-		this raza=raza;
+		this.raza=raza;
 
 	}
 }
